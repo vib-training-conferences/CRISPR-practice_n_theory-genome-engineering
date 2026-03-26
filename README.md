@@ -1,5 +1,5 @@
 <!--
-author:   name last_name
+author:   Sibylle Vonesch, Ruben Vazquezuribe
 email:    trainingandconferences@vib.be
 version:  2.0.0
 language: en
@@ -24,8 +24,8 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-styles.css
 
-@edition:  1st 
-@CourseTitle: replace by course title
+@edition:  2nd 
+@CourseTitle: CRISPR in action: practice and theory of genome engineering
 
 import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/macro.md
 
@@ -46,19 +46,59 @@ This is the @edition edition of this workshop, jointly organised by VIB and ELIX
 
 ## General context
 
-This workshop is dedicated to ...
+CRISPR technology has revolutionized genome editing, making precise genetic modifications faster and more accessible than ever before. For researchers entering the field of molecular biology or genetics, understanding CRISPR is no longer optional; it's essential. 
 
-## Proposed Schedule
+This introductory course provides a solid foundation in both the theoretical principles and practical applications of CRISPR. Through interactive lectures and guided lab sessions, participants will learn how to design gRNAs, construct CRISPR vectors, perform genome editing, and analyze editing outcomes. 
 
-Schedule day 1:
+By the end of the training, you will be equipped with the skills to plan and execute your own CRISPR-based experiments confidentially, bridging the gap between concept and practice. 
 
-- 9:30 - 11:00 - session
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session
+## Proposed Schedule 
+
+**Day 1 (9h00 to 17h30):**
+
+- Introduction & Course overview
+
+- Introduction to CRISPR/Cas9
+
+- Lab introduction
+
+- gRNA design for NHEJ/ Whole-Gene Knockout (theory & practical)
+
+- Lab sessions 1 - gRNA cloning
+
+**Day 2 (9h00 to 17h30):**
+
+- Lab session 2 - gRNA cloning (continued), donor generation
+
+- DNA repair pathways; gRNA & donor design for HDR (theory & practical)
+
+- Lab session 3 - donor generation (continued), prepare editing experiments
+
+**Day 3 (9h00 to 16h30):**
+
+- Lab session 4 - editing experiments
+
+- Invited Speaker
+
+**Day 4 (9h00 to 16h30):**
+
+- Primer design for edit confirmation (theory + practical)
+
+- Lab session 5 - evaluate editing via colony PCR & Sanger sequencing
+
+- Invited Speaker
+
+**Day 5 (9h00 to 16h00):**
+
+- Analyzing genotyping results (theory + practical)
+
+- Global analysis of editing efficacy (practical)
+
+- Methods to enhance HDR in bacteria & eukaryotes
+
+- Beyond CRISPR/Cas9
+
+- Wrap-up
 
 </section>
 
@@ -66,51 +106,63 @@ Schedule day 1:
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
+> <i class="fa fa-user"></i> **Target Audience:** Researchers, PhD students, Post-docs
 >
-> <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
+> <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Intermediary  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 > 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> 1. In depth theoretical knowledge of Molecular Biology
+> 2. Basic experience with molecular tecniques (PCR, eletrophoresis,etc)
 >
-> <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> <i class="fa fa-bookmark"></i> **Description**  
+> 
+> - The course combines interactive lectures with practical lab sessions to provide a solid understanding of CRISPR technology and enable students to apply it effectively.
+>
+> - Participants actively engage in designing experiments, performing genome editing using provided kits, and analyzing results under the guidance of experienced trainers.
+>
+> - Participants are expected to participate in discussions, apply theoretical concepts to hands-on tasks, and collaborate with peers to troubleshoot and refine experimental strategies.
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
+> 1. Design gRNAs applying principles of efficiency prediction and off-target risk assessment.
 >
-> 2. Discuss and explain ..... [Understanding] 
+> 2. Construct CRISPR vectors using appropriate cloning strategies and component selection. 
 >
-> 3. Apply and modify ..... [Applying] 
+> 3. Optimize HDR donor templates for precise genome edits based on design criteria. 
 >
-> 4. Compare ..... [Analysing] 
+> 4. Perform genome editing and genotyping analysis using Sanger sequencing and interpret editing efficacy 
 >
-> 5. Evaluate and select ..... [Evaluating] 
+> 5. Learn about different approaches to analyzing CRISPR experiments and get experience in analyzing experimental data with varying bioinformatics tools. 
 >
-> 6. Create and integrate ..... [Creating]
+> 6. Critique potential experimental pitfalls and propose improvements for CRISPR-based workflows.
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
+> <i class="fa fa-hourglass"></i> **Time estimation**: 40h
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+> <i class="fa fa-asterisk"></i> **Requirements:** 
+>
+> Install and make account for:
+> 
+>- Benchling - gRNA and donor design, evaluation of editing outcomes
+>
+> - CRISPOR, CHOPCHOP - gRNA design
+>
+> - TIDE, CRISPResso2 - analyzing sequencing results
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions](link)
-> 2. [Slides](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/supplementary/chapter_01_presentation.md)  
+> 1. [Exercises and solutions](./exercises/)
+> 2. [Slides](./docs/presentations/)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
-> * [ELIXIR Belgium](https://www.elixir-belgium.org/)
 > * [VIB Technologies](https://www.vib.be/)
 >
-> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
+> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding ...
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
 
@@ -119,9 +171,8 @@ Schedule day 1:
 
 Authors
 
-- @[orcid(Paulo Czarnewski)](http://orcid.org/0000-0001-8150-4021)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
+- @[orcid(Sibylle Vonesch)](http://orcid.org/0000-0003-2485-1048)
+- @[orcid(Ruben Vazquezuribe)](http://orcid.org/0000-0002-9800-0409)
 
 Contributors
 
@@ -147,17 +198,9 @@ Please cite as:
 
 # References
 
-Here are some great tips for learning and to get inspired for writing your own pipelines:
+Here are some great tips for learning and to get inspired f:
 
-- Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
-- Reach out to the community on Slack ([link](https://www.nextflow.io/slack-invite.html))
-- Curated collection of patterns ([link](https://github.com/nextflow-io/patterns))
-- Workshop focused on DSL2 developed by CRG Bioinformatics Core ([link](https://github.com/biocorecrg/ELIXIR_containers_nextflow))
-- Tutorial exercises (DSL1) developed by Seqera ([link](https://github.com/seqeralabs/nextflow-tutorial))
-- Curated ready-to-use analysis pipelines by NF-core ([link](https://nf-co.re/))
-- Model example pipeline on Variant Calling Analysis with NGS RNA-Seq data developed by CRG ([link](https://github.com/CRG-CNAG/CalliNGS-NF))
-- Tutorial by Andrew Severin ([link](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0))
-- Nextflow community basic training ([link](https://training.nextflow.io/basic_training/))
+- Resource ([link](https://www.nextflow.io/docs/latest/index.html))
 
 # About us
 
@@ -191,53 +234,52 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
 {
   "@context": "https://schema.org/",
   "@type": "LearningResource",
-  "@id": "https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/",
+  "@id": "https://github.dev/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering",
   "http://purl.org/dc/terms/conformsTo": {
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
-  "name": "TeSS, how can I help you?",
+  "description": "This introductory course provides a solid foundation in both the theoretical principles and practical applications of CRISPR. Through interactive lectures and guided lab sessions, participants will learn how to design gRNAs, construct CRISPR vectors, perform genome editing, and analyze editing outcomes. ",
+  "keywords": "CRISPR, Genome editing, Wet lab",
+  "name": "CRISPR in action: practice and theory of genome engineering",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "educationalLevel": "beginner",
-  "competencyRequired": "none",
+  "educationalLevel": "intermediary",
+  "competencyRequired": "Molecular Biology theoretical knowledge",
   "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
+    "Design gRNAs applying principles of efficiency prediction and off-target risk assessment.",
+    "Construct CRISPR vectors using appropriate cloning strategies and component selection.",
+    "Optimize HDR donor templates for precise genome edits based on design criteria.",
+    "Perform genome editing and genotyping analysis using Sanger sequencing and interpret editing efficacy.",
+    "Learn about different approaches to analyzing CRISPR experiments and get experience in analyzing experimental data with varying bioinformatics tools.",
+    "Critique potential experimental pitfalls and propose improvements for CRISPR-based workflows."
   ],
-  "audience": "training providers",
+  "audience": "researchers, PhD students, Post-docs",
   "inLanguage": "en-US",
   "learningResourceType": [
-    "tutorial"
+    "Presentations, slides"
   ],
   "author": [
     {
       "@type": "Person",
-      "name": "Bruna Piereck"
+      "name": "Sibylle Vonesch"
     },
     {
       "@type": "Person",
-      "name": "Olivier Sand"
+      "name": "Ruben Vazquezuribe"
     },
-    {
-      "@type": "Person",
-      "name": "Alexander Botzki"
-    }
   ],
   "contributor": [
     {
       "@type": "Person",
-      "name": "Yasmine Maes"
+      "name": "name"
     },
     {
       "@type": "Person",
-      "name": "Finn Bacall"
+      "name": "name"
     },
     {
       "@type": "Person",
-      "name": "Munazah Andrabi"
+      "name": "name"
     }
   ]
 }
