@@ -124,7 +124,8 @@ By the end of the training, you will be equipped with the skills to plan and exe
 >
 > - Participants are expected to participate in discussions, apply theoretical concepts to hands-on tasks, and collaborate with peers to troubleshoot and refine experimental strategies.
 > 
-> <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
+> <i class="fa fa-arrow-right"></i> **Learning Outcomes:**
+>  
 > By the end of the course, learners will be able to:
 >
 > 1. Design gRNAs applying principles of efficiency prediction and off-target risk assessment.
