@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this lesson, please cite it as below."
+authors:
+- given-names: Sibylle 
+  family-names: Vonesch
+  affiliation: VIB
+  orcid: 0000-0003-2485-1048
+- given-names: Ruben 
+  family-names: Vazquezuribe
+  affiliation: VIB
+  orcid: 0000-0002-9800-0409
+contact:
+- given-names: Bruna
+  family-names: Piereck
+  affiliation: VIB
+  orcid: 00000-0001-6691-4233
+title: "CRISPR in action: practice and theory of genome engineering"
+version: v2.0.0
+doi: ~
+date-released: 2026-08-23
+keywords:
+- CRISPR
+- wet lab
+license: CC-BY
+repository-code: https://github.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/
+type: lesson
+abstract: "This introductory course provides a solid foundation in both the theoretical principles and practical applications of CRISPR. Through interactive lectures and guided lab sessions, participants will learn how to design gRNAs, construct CRISPR vectors, perform genome editing, and analyze editing outcomes"
+identifiers:
+- type: url
+  value: https://github.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/
+  version: v2026
