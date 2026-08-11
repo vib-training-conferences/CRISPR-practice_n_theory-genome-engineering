@@ -37,7 +37,7 @@ import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/r
 
 Hello and welcome to our workshop! We are very happy to have you here.
 
-This is the @edition edition of this workshop, jointly organised by VIB and ELIXIR.
+This is the @edition edition of this workshop.
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
