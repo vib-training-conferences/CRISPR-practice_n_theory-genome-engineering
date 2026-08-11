@@ -128,19 +128,17 @@ By the end of the training, you will be equipped with the skills to plan and exe
 >  
 > By the end of the course, learners will be able to:
 >
-> 1. Design gRNAs applying principles of efficiency prediction and off-target risk assessment.
+>1. Design gRNAs applying principles of efficiency prediction and off-target risk assessment.
 >
-> 2. Construct CRISPR vectors using appropriate cloning strategies and component selection. 
+>2. Construct CRISPR vectors using appropriate cloning strategies and component selection. 
 >
-> 3. Optimize HDR donor templates for precise genome edits based on design criteria. 
+>3. Optimize HDR donor templates for precise genome edits based on design criteria. 
 >
-> 4. Perform genome editing and genotyping analysis using Sanger sequencing and interpret editing efficacy 
+>4. Perform genome editing and genotyping analysis using Sanger sequencing and interpret editing efficacy 
 >
-> 5. Learn about different approaches to analyzing CRISPR experiments and get experience in analyzing experimental data with varying bioinformatics tools. 
+>5. Learn about different approaches to analyzing CRISPR experiments and get experience in analyzing experimental data with varying bioinformatics tools. 
 >
-> 6. Critique potential experimental pitfalls and propose improvements for CRISPR-based workflows.
->
->> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
+>6. Critique potential experimental pitfalls and propose improvements for CRISPR-based workflows.
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 40h
 >
@@ -148,7 +146,7 @@ By the end of the training, you will be equipped with the skills to plan and exe
 >
 > Install and make account for:
 > 
->- Benchling - gRNA and donor design, evaluation of editing outcomes
+> - Benchling - gRNA and donor design, evaluation of editing outcomes
 >
 > - CRISPOR, CHOPCHOP - gRNA design
 >
@@ -175,17 +173,12 @@ Authors
 - @[orcid(Sibylle Vonesch)](http://orcid.org/0000-0003-2485-1048)
 - @[orcid(Ruben Vazquezuribe)](http://orcid.org/0000-0002-9800-0409)
 
-Contributors
-
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-- @[orcid(Name)](http://orcid.org/0000-0000-0000-0000)
-
 
 ## Citing this lesson
 
 Please cite as:
 
-  1. ...
+  1. to be updated soon
 
 # Chapters List
 
