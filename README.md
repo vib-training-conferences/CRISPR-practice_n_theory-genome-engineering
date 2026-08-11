@@ -154,14 +154,13 @@ By the end of the training, you will be equipped with the skills to plan and exe
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions](./exercises/)
-> 2. [Slides](./docs/presentations/)  
+> 1. [Slides](./docs/presentations/)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
 > * [VIB Technologies](https://www.vib.be/)
 >
-> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding ...
+> <i class="fa fa-money-bill"></i> **Funding:** 
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
 
@@ -184,11 +183,7 @@ Please cite as:
 
 | Chapter | Title                                                   |
 | :---- | :------------------------------------------------         |
-| 0     | [Get ready for the course, instalation and pre-reading](link) |
-| 1     | [Chapter title](link)                                             |
-| 2     | [Chapter title](link)                                             |
-| 3     | [Chapter title](link)                                             |
-
+| 0     | [You need before the course](./docs/chapters/GetReady4training.md) |
 
 # References
 
