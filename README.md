@@ -167,7 +167,7 @@ Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[or
 
 Technical Editors: Alexander Botzki
 
-License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+License: [![CC BY SA](ihttps://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/cc-by-sa.png?token=GHSAT0AAAAAADUBSA7XW74IS7BI4X7BGUAE2T4JZNQ)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ```json   @JSONLD
 {
