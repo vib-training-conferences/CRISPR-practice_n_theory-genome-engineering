@@ -1,0 +1,67 @@
+<section>
+
+Hello and welcome to our workshop! We are very happy to have you here.
+
+This is the @edition edition of this workshop.
+
+> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
+> It is a distributed way of creating and sharing educational content hosted on github.
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
+
+## General context
+
+CRISPR technology has revolutionized genome editing, making precise genetic modifications faster and more accessible than ever before. For researchers entering the field of molecular biology or genetics, understanding CRISPR is no longer optional; it's essential. 
+
+This introductory course provides a solid foundation in both the theoretical principles and practical applications of CRISPR. Through interactive lectures and guided lab sessions, participants will learn how to design gRNAs, construct CRISPR vectors, perform genome editing, and analyze editing outcomes. 
+
+By the end of the training, you will be equipped with the skills to plan and execute your own CRISPR-based experiments confidentially, bridging the gap between concept and practice. 
+
+## Proposed Schedule 
+
+> | Day 1 (9h00 to 17h30) 
+> | - Introduction & Course overview
+
+- Introduction to CRISPR/Cas9
+
+- Lab introduction
+
+- gRNA design for NHEJ/ Whole-Gene Knockout (theory & practical)
+
+- Lab sessions 1 - gRNA cloning
+
+**Day 2 (9h00 to 17h30):**
+
+- Lab session 2 - gRNA cloning (continued), donor generation
+
+- DNA repair pathways; gRNA & donor design for HDR (theory & practical)
+
+- Lab session 3 - donor generation (continued), prepare editing experiments
+
+**Day 3 (9h00 to 16h30):**
+
+- Lab session 4 - editing experiments
+
+- Invited Speaker
+
+**Day 4 (9h00 to 16h30):**
+
+- Primer design for edit confirmation (theory + practical)
+
+- Lab session 5 - evaluate editing via colony PCR & Sanger sequencing
+
+- Invited Speaker
+
+**Day 5 (9h00 to 16h00):**
+
+- Analyzing genotyping results (theory + practical)
+
+- Global analysis of editing efficacy (practical)
+
+- Methods to enhance HDR in bacteria & eukaryotes
+
+- Beyond CRISPR/Cas9
+
+- Wrap-up
+
+</section>

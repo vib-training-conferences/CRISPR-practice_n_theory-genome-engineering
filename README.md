@@ -31,78 +31,10 @@ import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/r
 
 -->
 
-# @CourseTitle
+# CRISPR in action: practice and theory of genome engineering
 
-<section>
-
-Hello and welcome to our workshop! We are very happy to have you here.
-
-This is the @edition edition of this workshop.
-
-> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
-> It is a distributed way of creating and sharing educational content hosted on github.
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/training_material_template/main/README.md)
-
-## General context
-
-CRISPR technology has revolutionized genome editing, making precise genetic modifications faster and more accessible than ever before. For researchers entering the field of molecular biology or genetics, understanding CRISPR is no longer optional; it's essential. 
-
-This introductory course provides a solid foundation in both the theoretical principles and practical applications of CRISPR. Through interactive lectures and guided lab sessions, participants will learn how to design gRNAs, construct CRISPR vectors, perform genome editing, and analyze editing outcomes. 
-
-By the end of the training, you will be equipped with the skills to plan and execute your own CRISPR-based experiments confidentially, bridging the gap between concept and practice. 
-
-## Proposed Schedule 
-
-**Day 1 (9h00 to 17h30):**
-
-- Introduction & Course overview
-
-- Introduction to CRISPR/Cas9
-
-- Lab introduction
-
-- gRNA design for NHEJ/ Whole-Gene Knockout (theory & practical)
-
-- Lab sessions 1 - gRNA cloning
-
-**Day 2 (9h00 to 17h30):**
-
-- Lab session 2 - gRNA cloning (continued), donor generation
-
-- DNA repair pathways; gRNA & donor design for HDR (theory & practical)
-
-- Lab session 3 - donor generation (continued), prepare editing experiments
-
-**Day 3 (9h00 to 16h30):**
-
-- Lab session 4 - editing experiments
-
-- Invited Speaker
-
-**Day 4 (9h00 to 16h30):**
-
-- Primer design for edit confirmation (theory + practical)
-
-- Lab session 5 - evaluate editing via colony PCR & Sanger sequencing
-
-- Invited Speaker
-
-**Day 5 (9h00 to 16h00):**
-
-- Analyzing genotyping results (theory + practical)
-
-- Global analysis of editing efficacy (practical)
-
-- Methods to enhance HDR in bacteria & eukaryotes
-
-- Beyond CRISPR/Cas9
-
-- Wrap-up
-
-</section>
-
-# Lesson overview
+Lesson overview
+----------------
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
@@ -111,14 +43,20 @@ By the end of the training, you will be equipped with the skills to plan and exe
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Intermediary  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
-> To be able to follow this course, learners should have knowledge in:
+> To be able to follow this course, you should have:
 > 
 > 1. In depth theoretical knowledge of Molecular Biology
 > 2. Basic experience with molecular tecniques (PCR, eletrophoresis,etc)
 >
 > <i class="fa fa-bookmark"></i> **Description**  
 > 
-> - The course combines interactive lectures with practical lab sessions to provide a solid understanding of CRISPR technology and enable students to apply it effectively.
+> CRISPR technology has revolutionized genome editing, making precise genetic modifications faster and more accessible than ever before. For researchers entering the field of molecular biology or genetics, understanding CRISPR is no longer optional; it's essential. 
+>
+>This introductory course provides a solid foundation in both the theoretical principles and practical applications of CRISPR. Through interactive lectures and guided lab sessions, participants will learn how to design gRNAs, construct CRISPR vectors, perform genome editing, and analyze editing outcomes. 
+>
+>By the end of the training, you will be equipped with the skills to plan and execute your own CRISPR-based experiments confidentially, bridging the gap between concept and practice. - The course combines interactive lectures with practical lab sessions to provide a solid understanding of CRISPR technology and enable students to apply it effectively.
+>
+> <i class="fa fa-bookmark"></i> **Aproach**
 >
 > - Participants actively engage in designing experiments, performing genome editing using provided kits, and analyzing results under the guidance of experienced trainers.
 >
@@ -129,15 +67,10 @@ By the end of the training, you will be equipped with the skills to plan and exe
 > By the end of the course, learners will be able to:
 >
 >1. Design gRNAs applying principles of efficiency prediction and off-target risk assessment.
->
 >2. Construct CRISPR vectors using appropriate cloning strategies and component selection. 
->
 >3. Optimize HDR donor templates for precise genome edits based on design criteria. 
->
 >4. Perform genome editing and genotyping analysis using Sanger sequencing and interpret editing efficacy 
->
 >5. Learn about different approaches to analyzing CRISPR experiments and get experience in analyzing experimental data with varying bioinformatics tools. 
->
 >6. Critique potential experimental pitfalls and propose improvements for CRISPR-based workflows.
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 40h
@@ -155,6 +88,16 @@ By the end of the training, you will be equipped with the skills to plan and exe
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Slides](./docs/presentations/)  
+>
+> ## Proposed Schedule
+>
+>> | Day 1 (9:00–17:30)| Day 2 (9:00–17:30)|
+>> |---|---|
+>> | <br>• Introduction & course overview<br>• Introduction to CRISPR/Cas9<br>• Lab introduction<br>• gRNA design for NHEJ / whole-gene knockout (theory & practical)<br>• Lab session 1 – gRNA cloning |<br>• Lab session 2 – gRNA cloning (continued), donor generation<br>• DNA repair pathways; gRNA & donor design for HDR (theory & practical)<br>• Lab session 3 – donor generation (continued), prepare editing experiments |
+>>
+>> | Day 3 (9:00–16:30)| Day 4 (9:00–16:30) |  Day 5 (9:00–16:00)|
+>> |---|---| --- |
+>> | <br>• Lab session 4 – editing experiments<br>• Invited speaker | <br>• Primer design for edit confirmation (theory + practical)<br>• Lab session 5 – evaluate editing via colony PCR & Sanger sequencing<br>• Invited speaker |<br>• Analyzing genotyping results (theory + practical)<br>• Global analysis of editing efficacy (practical)<br>• Methods to enhance HDR in bacteria & eukaryotes<br>• Beyond CRISPR/Cas9<br>• Wrap-up |
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -163,33 +106,41 @@ By the end of the training, you will be equipped with the skills to plan and exe
 > <i class="fa fa-money-bill"></i> **Funding:** 
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
+>
+> # Authors and Contributors
+> 
+> Authors
+> 
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0003-2485-1048) Sibylle Vonesch 
+>
+> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0002-9800-0409) Ruben Vazquezuribe
+> 
+> ## Citing this lesson
+>
+> Please cite as:
+>
+> 1. to be updated soon
+>
+> # Chapters List
+>
+> | Chapter | Title                                                   |
+> | :---- | :------------------------------------------------         |
+> | 1     | [You need before the course](./docs/chapters/GetReady4training.md) |
+
+Workshop and Material organization
 
 
-# Authors and Contributors
-
-Authors
-
-- @[orcid(Sibylle Vonesch)](http://orcid.org/0000-0003-2485-1048)
-- @[orcid(Ruben Vazquezuribe)](http://orcid.org/0000-0002-9800-0409)
-
-
-## Citing this lesson
-
-Please cite as:
-
-  1. to be updated soon
-
-# Chapters List
-
-| Chapter | Title                                                   |
-| :---- | :------------------------------------------------         |
-| 0     | [You need before the course](./docs/chapters/GetReady4training.md) |
+> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
+> It is a distributed way of creating and sharing educational content hosted on github.
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/main/README.md)
 
 # References
 
-Here are some great tips for learning and to get inspired f:
+Here are some great tips for learning and to get inspired for your own use:
 
-- Resource ([link](https://www.nextflow.io/docs/latest/index.html))
+No links shared at the moment
+--------------------------------
 
 # About us
 
