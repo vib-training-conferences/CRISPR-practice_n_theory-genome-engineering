@@ -111,9 +111,9 @@ Lesson overview
 > 
 > Authors
 > 
-> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0003-2485-1048) Sibylle Vonesch 
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg?token=GHSAT0AAAAAADUBSA7WMQST45FQITSYKZ2S2T4JWQQ" width="20"/>](http://orcid.org/0000-0003-2485-1048) Sibylle Vonesch 
 >
-> [<img src="./docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0002-9800-0409) Ruben Vazquezuribe
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg?token=GHSAT0AAAAAADUBSA7WMQST45FQITSYKZ2S2T4JWQQ" width="20"/>](http://orcid.org/0000-0002-9800-0409) Ruben Vazquezuribe
 > 
 > ## Citing this lesson
 >
@@ -127,13 +127,12 @@ Lesson overview
 > | :---- | :------------------------------------------------         |
 > | 1     | [You need before the course](./docs/chapters/GetReady4training.md) |
 
-Workshop and Material organization
+# Workshop and Material organization
 
-
-> We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
-> It is a distributed way of creating and sharing educational content hosted on github.
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/main/README.md)
+We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
+It is a distributed way of creating and sharing educational content hosted on github.
+To see this document as an interactive LiaScript rendered version, click on the
+following link/badge: [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/main/README.md)
 
 # References
 
