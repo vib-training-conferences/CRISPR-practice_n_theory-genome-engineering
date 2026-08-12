@@ -208,20 +208,6 @@ License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/
       "name": "Ruben Vazquezuribe"
     },
   ],
-  "contributor": [
-    {
-      "@type": "Person",
-      "name": "name"
-    },
-    {
-      "@type": "Person",
-      "name": "name"
-    },
-    {
-      "@type": "Person",
-      "name": "name"
-    }
-  ]
 }
 ```
 
