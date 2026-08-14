@@ -35,7 +35,7 @@ edition: 1st
 
 2. It is advised to bring a lab coat. We have a limited number available. Please let us know if you need one and what size. 
 
-3. Please create an account on [Benchling](https://www.benchling.com/) com before the training starts, as it will be used throughout the sessions. 
+3. Please create an account on [Benchling](https://www.benchling.com/) before the training starts, as it will be used throughout the sessions. 
 
 # You need to have
 
