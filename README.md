@@ -125,7 +125,7 @@ Lesson overview
 >
 > | Chapter | Title                                                   |
 > | :---- | :------------------------------------------------         |
-> | 1     | [You need before the course]([./docs/chapters/GetReady4training.md](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/chapters/GetReady4training.md#1)) |
+> | 1     | [You need before the course]([./docs/chapters/GetReady4training.md](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/chapters/GetReady4training.md#1) |
 
 # Workshop and Material organization
 
