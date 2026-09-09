@@ -168,7 +168,7 @@ Technical Editors: Alexander Botzki
 
 License: 
 
-[<img src="https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/cc-by-sa.png?token=GHSAT0AAAAAADUBSA7XW74IS7BI4X7BGUAE2T4JZNQ" width="100"/>](https://creativecommons.org/licenses/by-sa/4.0/deed.en) [4.0 international]((https://creativecommons.org/licenses/by-sa/4.0/deed.en))
+[<img src="https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/CCBY4.0.png" width="100"/>](https://creativecommons.org/licenses/by/4.0/deed.en) [4.0 international](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 ```json   @JSONLD
 {
