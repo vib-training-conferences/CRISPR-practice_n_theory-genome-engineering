@@ -87,7 +87,7 @@ Lesson overview
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Slides](./docs/presentations/)  
+> 1. [Slides](https://github.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/tree/main/docs/presentations)  
 >
 > ## Proposed Schedule
 >
