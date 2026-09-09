@@ -103,7 +103,7 @@ Lesson overview
 >
 > * [VIB Technologies](https://www.vib.be/)
 >
-> <i class="fa fa-money-bill"></i> **Funding:** 
+> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
 >
