@@ -111,9 +111,9 @@ Lesson overview
 > 
 > Authors
 > 
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg?token=GHSAT0AAAAAADUBSA7XRY65373LKS24PZYI2T4T4RQ" width="20"/>](http://orcid.org/0000-0003-2485-1048) Sibylle Vonesch 
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0003-2485-1048) Sibylle Vonesch 
 >
-> [<img src="https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg?token=GHSAT0AAAAAADUBSA7XRY65373LKS24PZYI2T4T4RQ" width="20"/>](http://orcid.org/0000-0002-9800-0409) Ruben Vazquezuribe
+> [<img src="https://raw.githubusercontent.com/vib-training-conferences/CRISPR-practice_n_theory-genome-engineering/refs/heads/main/docs/images/ORCID-iD_icon_vector.svg" width="20"/>](http://orcid.org/0000-0002-9800-0409) Ruben Vazquezuribe
 > 
 > ## Citing this lesson
 >
