@@ -105,8 +105,8 @@ Lesson overview
 >
 > <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
 >
-> <i class="fa fa-anchor"></i> **PURL**:  
->
+> <i class="fa fa-anchor"></i> **PURL**:  [<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22675195.svg" width="200"/>](https://zenodo.org/records/22675195)
+> 
 > # Authors and Contributors
 > 
 > Authors
@@ -119,7 +119,7 @@ Lesson overview
 >
 > Please cite as:
 >
-> 1. to be updated soon
+> Vonesch, S., & Vazquezuribe, R. (2026). CRISPR in action: practice and theory of genome engineering (Version v2026) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22675195
 >
 > # Chapters List
 >
